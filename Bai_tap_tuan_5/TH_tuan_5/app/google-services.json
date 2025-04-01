@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "882451060753",
+    "firebase_url": "https://thuc-hanh-buoi-5-default-rtdb.firebaseio.com",
+    "project_id": "thuc-hanh-buoi-5",
+    "storage_bucket": "thuc-hanh-buoi-5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882451060753:android:a2e9eea146363ed7dc79b0",
+        "android_client_info": {
+          "package_name": "com.example.th_tuan_5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882451060753-o5uklnho9ta9k7kmb8kdbo6k8nf2ocq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7fDpy6Ur4m4X9mFVLMTMvCyj4QEyqT90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882451060753-o5uklnho9ta9k7kmb8kdbo6k8nf2ocq3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
